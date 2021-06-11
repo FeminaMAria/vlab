@@ -4,26 +4,26 @@
 
 <b>Discipline | <b>Engineering
 :--|:--|
-<b> Lab. | <b> Engineering Physics
-<b> Experiment|     <b> 1. Newton's Ring Experiment
+<b> Lab. | <b> Control and Instrumentation 
+<b> Experiment|     <b> 1. Synchro Transmitter-Receiver characteristics
 
 <h5> About the Experiment : </h5>
-This experiment is about the interference of light. 
+This experiment is about the  characteristics of synchro transmitter -receiver  
 
-<b>Name of Developer | <b> Bhagwan G. Toksha
+<b>Name of Developer | <b> Dr.M.A.Femina
 :--|:--|
-<b> Institute | <b> Maharashtra Institute of Technology
-<b> Email id|     <b> bhagwan.toksha@mit.asia
-<b> Department | Basic Sciences & Humanities
+<b> Institute | <b> KCG College of Technology
+<b> Email id|     <b> femina@kcgcollege.com
+<b> Department | Electrical and Electronics Engineering
 
 #### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Bhagwan G. Toksha | Faculty | Basic Sciences & Humanities | Maharashtra Institute of Technology, Aurangabad | bhagwan.toksha@mit.asia
-2 | Sankalp Pol | Student | Computer Science & Engineering | Maharashtra Institute of Technology, Aurangabad |sankalp.pol@mit.ac.in
-3 | Suraj Suryawanshi | Student | Mechanical Engineering | Maharashtra Institute of Technology, Aurangabad |suryawanshisuraj1122@gmail.com
-4 | Fardeen Khan  | Student | Civil Engineering | Maharashtra Institute of Technology, Aurangabad |khanfardin510@gmail.com
+1 | Dr.M.A.Femina | Faculty | Electrical and Electronics Engineering | KCG College of Technology,Chennai| femina@kcgcollege.com
+2 | Dhanush S| Student | Information Technology | KCG College of Technology,Chennai |18it09@kcgcollege.com
+3 | Ganesh Chandrasekar| Student | Computer Science and Engineering | KCG College of Technology,Chennai |18cs021@kcgcollege.com
+4 | Edwin Emmanuel Rajan S| Student | Electrical and Electronics Engineering | KCG College of Technology,Chennai |18ee005@kcgcollege.com
 
 
 <br>
