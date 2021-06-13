@@ -4,26 +4,26 @@
 
 <b>Discipline | <b>Engineering
 :--|:--|
-<b> Lab. | <b> Control and Instrumentation 
-<b> Experiment|     <b> 1. Synchro Transmitter-Receiver characteristics
+<b> Lab. | <b> Metrology & Measurements Lab
+<b> Experiment|     <b> 1. Measurement of Torque using Torque Sensor
 
 <h5> About the Experiment : </h5>
-This experiment is about the  characteristics of synchro transmitter -receiver  
+This experiment is about the measurement of torque using sensor. 
 
-<b>Name of Developer | <b> Dr.M.A.Femina
+<b>Name of Developer | <b> Gobivel K
 :--|:--|
 <b> Institute | <b> KCG College of Technology
-<b> Email id|     <b> femina@kcgcollege.com
-<b> Department | Electrical and Electronics Engineering
+<b> Email id|     <b> gobivel.mech@kcgcollege.com
+<b> Department | Mechanical Engineering
 
 #### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Dr.M.A.Femina | Faculty | Electrical and Electronics Engineering | KCG College of Technology,Chennai| femina@kcgcollege.com
-2 | Dhanush S| Student | Information Technology | KCG College of Technology,Chennai |18it09@kcgcollege.com
-3 | Ganesh Chandrasekar| Student | Computer Science and Engineering | KCG College of Technology,Chennai |18cs021@kcgcollege.com
-4 | Edwin Emmanuel Rajan S| Student | Electrical and Electronics Engineering | KCG College of Technology,Chennai |18ee005@kcgcollege.com
+1 | Gobivel K | Faculty | Mechanical Engineering | KCG College of Technology, Chennai | gobivel.mech@kcgcollege.com
+2 | Mahaalakshmi B | Student | Computer Science & Engineering | KCG College of Technology, Chennai |bmahaa4@gmail.com
+3 | Abhishek Yadav | Student | Mechanical Engineering | KCG College of Technology, Chennai |18me001@kcgcollege.com
+4 | Ganesh J  | Student | Mechanical Engineering | KCG College of Technology, Chennai |18me021@kcgcollege.com
 
 
 <br>
