@@ -1,25 +1,26 @@
 ## Pedagogy (Round 1)
 <p align ="center">
 <br>
-<b> Experiment: Torque Measurement using Torque Sensor <a name="top"></a> <br>
+<b> Experiment: Synchro transmitter -receiver characteristics <a name="top"></a> <br>
 </p>
 
 <b>Discipline | <b>Engineering
 :--|:--|
-<b> Lab | <b> Metrology & Measurements Lab
-<b> Experiment|     <b> 1. Torque Measurement using Torque Sensor Experiment.
+<b> Lab | <b> Control and Instrumentation Lab
+<b> Experiment|     <b> 1. Synchro transmitter-receiver characteristics experiment.
 
 
-<h4> [1. Focus Area](#FA)
-<h4> [2. Learning Objectives](#LO)
-<h4> [3. Instructional Strategy](#IS)
-<h4> [4. Task & Assessment Questions](#AQ)
-<h4> [5. Simulator Interactions](#SI)
+<h4> [1. Focus Area](FA)
+<h4> [2. Learning Objectives](LO)
+<h4> [3. Instructional Strategy](IS)
+<h4> [4. Task & Assessment Questions](AQ)
+<h4> [5. Simulator Interactions](SI)
 <hr>
 
 <a name="FA"></a>
 ### 1. Focus Area
-1. Instrumentation and Practical Skills, 2. Reinforce theoretical concepts, 3. Experimentation, 4. Data Analysis
+Instrumentation and Practical Skills, Experimentation, Performance evaluation by data analysis.
+The students know the instrumentation and concept of synchro transmitter- receiver and the performance at different set angle. They do the experiment based on the formula.
 
 <a name="LO"></a>
 ### 2. Learning Objectives and Cognitive Level
@@ -27,10 +28,9 @@
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to: <br>Define torque, purpose of weighing heads, units<br> | Remembering | Define
-2.| User will be able to: <br>Recall the circuit connection with torque sensor kit.<br> | Remembering | Recall
-3.| User will be able to: <br>Explain the principle of strain gauge, torque sensor connections.  | Understand | Explain
-4.| User will be able to: <br>Identify the calculated torque, indicated torque and find the error % | Apply | Identify
+1.| User will be able to: <br>Describe the components in the diagram | Remember | Describe
+2.| User will be able to: <br>Demonstrate the performance of synchro pair at different angular positions | Understand | Demonstrate
+3.| User will be able to: <br>Interpret the set angle in transmitter Vs Measured angle in receiver | Understand | Interpret
 
 
 
@@ -48,7 +48,9 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 
 <u> <b>Description:</b></u> <u> Instructional Strategy will be implemented in the simulator as follows: </u>
 <br>
- Section will be Aim, Theory, Procedure, Pretest, Simulation, Posttest and References. Students will define the torque, purpose of weighing in torque measurements and able to connect the circuit and explain the basic concepts. With this student can understand the theoretical concepts and its purpose. After understanding the theoretical concepts students will take pretest (self-evaluation) questions to assess their understanding on relevant experiment (Formative assessment). Now, they will connect the torque sensors as per the circuit diagram and select the arm length having 0.5, 0.75 and 1 meter. Now students will select the weighing ranging from 0.3, 0.5 and 0.7 kg then load into the arm and note down the indicated reading from torque sensor. Also, students will calculate the torque using the length of arm and weighing load. These values will be put into the formula and error % shall be calculated to plot the graph. After performing the experiment, student shall answer to the post test questions (Summative assessment).
+ Section will be Aim, Theory, Procedure, Pretest, Simulation, Posttest and References. The instructional strategy identified is Expository as the students learn in the theory course the concepts of synchro pair, its operating principle, and the performance characteristics. So, the virtual laboratory experiment will help the students to understand practically the characteristics of synchro pair.
+
+The formative assessment (quiz) given before the test will also help the students to evaluate themselves. Later the experiment will be done by the students based on the instructions. Once the experiment is completed by the student quiz will be given to assess themselves with the learnt concepts.(Summative assessment).
 
 <br/>
 <div align="right">
@@ -63,16 +65,13 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 Read the theory and comprehend the concepts related to the experiment. [LO1, LO2, LO3]
 <br>
 
-Sr. No |	Instructions given by the Teacher	| Task to be performed by <br> the student  in the simulator | Assessment questions aligned to the task
-:--|:--|:--|:--
-1.| Display the experimental set-up. Define the torque, applications, arm length | Define the meaning of torque and circuits involved in the experiment. | Drag and drop the circuit connections
-2.| Students must define the basic concepts of torque sensors | Students should understand the working of torque sensor and its concepts | Q1. Torque is determined by <br>A. Size of the force applied<br>B. Moment arm only<br>C. Weight<br>D. Both a) and b)
-3.| Student must explain the circuit connections  | Follow the instructions. Students able to connect the circuit and set the position  | Q2. When force is applied to a strain gauge torque sensor, what changes occurred?<br>A. variation in energy<br>B. variation in area<br>C. variation in resistance<br>D. Variation in capacitance
-4.| Select the initial conditions like arm length, weighing | Set the arm length and put the weighing in respective position. | Q3. Unit of Torque is measured by<br> A. N/m2 <br> B. N-m <br> C. N/m <br>D. g/m
-5.| Observations to be noted | Note down the indicated reading from the torque sensor set-up. | Q4. Strain gauge sensor that works based on _________<br>A. Change in resistance<br>B. Change in inductance<br>C. Change in energy<br>D. Change in velocity
-6.| Validation| Calculate the torque manually based on input conditions  | Q5. Which of the following statement about torque measurement is correct?<br>A. Measurement of applied force only<br>B. Resistance in change in length of arm<br>C. Measurement of applied force and arm length<br>D. Resistance in material velocity
-7.| Plot indicated reading vs calculated reading | On simulator screen, the graph will be plotted for indicate and calculated readings | Error % of indicated and calculated reading
-8.| Nature of graph plot | Interpret the plot with suitable comments. |Interpret the plotted graph
+Sr. No | Instructions given by the teacher | Task to be performed by the student in the simulator | Assessment Questions as per LO & Task
+:--|:--|:--|:-:
+1.| Students will be able to describe the components used in experiment | quiz | Assessment will be through quiz before doing the experiment
+2.| Students will be asked to do the connections | Demonstration of circuit connections | Demonstration
+3.| Students will be able to set the position of the transmitter at a particular angle in degrees and observe on the receiver side| Demonstration of circuit performance | Demonstration
+4.| Students will be able to interpret the plot| Interpretation of the plot by the students|Assessment will be through quiz after doing the experiment
+
 
 </div>
 <br>
@@ -90,13 +89,10 @@ Sr. No |	Instructions given by the Teacher	| Task to be performed by <br> the st
 
 Sr. No | What students will do? | What Simulator will do ? | Purpose of the task
 :--|:--|:--|:--:
-1.| Student will understand the initial conditions  | Display the initial conditions and start simulation button | Provide basic environment to start the experiment.
-2.| Student will see the display of basic experimental set-up without any connections.  | See the experimental set-up and start to connect the torque sensor circuit with kit | Initiate the interactions with the experimental set-up
-3.| Student will repeat the connections if wrong  | Auto correct the connections after 3 attempts   | Ensure the correctness of circuit connections.
-4.| Student will move the handler to select the arm length  | Display the slider with selected position  | Change the arm length (0.5 or 0.75 or 1 metre).
-5.| Student will Move the handler to select the weighing which is to be placed on end of the arm | Display the slider with selected position and place the weighing at the end of the arm  | Choose the weighing (0.3 or 0.5 or 0.7 kg) and place on the arm end.
-6.| Student will click on the button  | Display the indicated readings from torque sensor. | To observe the current readings.
-7.| Student will repeat the trails for different arm length and weighing by click on the button. Click add to the table. | Display the indicated readings from torque sensor  | To observe the reading for different conditions.  
-8.| Student will see the filled table with observed readings | Simulator will Display the table with indicated readings | To make the students calculate the error %.
-9.| Student will fill the calculated torque | Click on the button | To check for the calculated data whether it is correct or not.
-10.| Student will click the "Generate Graph” button | Click on the button | To generate the graph according to the readings.
+1.| Students will click ‘START’ and move to the simulator page. Then click ‘CONNECTIONS’ | Simulator will be started, and simulator will make connections | To make electrical connections
+2.| Click On the ‘TEST CONNECTIONS’ button  | Simulator will check the connections and displays connections are valid| To test if connections are right
+3.| If connections are right students will press ‘TURN ON’ button.  | Circuit is switched ON if connections are correct   | To start the experiment if power is switched ON 
+4.| Set the transmitter at an angle say 30 degrees by entering a value between 1 to 5 in the input box, and pressing ‘ACCELERATE TRANSMITTER’   | Simulator will make the receiver side to move to 30 degrees automatically | To tabulate and keep record of the output
+5.| Repeat the above procedure till transmitter reaches 360 degrees at regular intervals of 30 degrees by entering a value at an interval of 5 in the input box  and clicking ‘ACCELERATE TRANSMITTER’ each time | Simulator will make the receiver side to move in proportion with the set angle in the transmitter side. |To tabulate and keep record of the output
+6.| Students will click ‘READING’ and enter the values noted in the tabular column page  | Simulator will calculate percentage error for each observed angle automatically | To find the percentage error.
+7.|Students will click ‘PLOT GRAPHS’ button to find the plot of set angle in transmitter and measured angle in receiver and also the percentage error curve. | Simulator will plot the curve  | To infer from the plot the characteristics of synchro pair
