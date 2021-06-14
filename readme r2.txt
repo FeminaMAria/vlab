@@ -13,10 +13,11 @@ The difference in the angular positions is found out and corrections can be done
 
 ### 2. Story:
 
-Let us assume that the user lands up into the simulator page where the synchro transmitter -receiver is shown to give the circuit connections.
-The user will connect as per the detailed procedure and will click the TEST button to check whether the connections are correct or not.
-After successful completion of circuit connection, user will set angle in the transmitter side at 15 degrees and can observe that the receiver side will automatically move to the same set angle. 
-The procedure is repeated in steps of 15 degrees till 360 degrees and tabulated. Then the plots are drawn.
+Let us assume that the user lands up into the simulator page where the synchro transmitter -receiver is shown to start the simulation.
+The user will do the experiment as per the detailed procedure. 
+The user will click connections and the simulator automatically connects the three windings of transmitter and receiver. 
+The circuit connections are tested and will click the TEST connections to check whether the connections are correct or not. After successful completion of circuit connection, user will set angle in the transmitter side at 30 degrees and can observe that the receiver side will automatically move to the same set angle. 
+The procedure is repeated in steps of 30 degrees till 360 degrees and tabulated. Then the graphs are plotted automatically
 Percentage error is calculated using the expression =  ((Өs- Өm)/ Өs )*100
 Where   Өs is the set angle in the transmitter side
 	Өm is the measured angle in the receiver side
@@ -27,11 +28,11 @@ Where   Өs is the set angle in the transmitter side
 #### 2.1 Set the Visual Stage Description:
 When the student visits the link of the simulator page, 
 
-•	Student observes "S1,S2,S3on transmitter and Receiver side.
+•	Student observes "S1,S2,S3 on transmitter and Receiver side.
 •	Student will connect S1 to S1,S2 to S2 ,S3 to S3.
 •	Student will switch ON the power supply after checking if connections are correct.
 •	Student will set an angle at transmitter side and observe in the receiver side.
-•	Student will click ADD button and tabulate different readings till 360 degrees.
+•	Student will tabulate different readings till 360 degrees and find the percentage error calculated automatically
 •	Student  will click Plot to get the graph 
 
 
