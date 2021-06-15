@@ -10,11 +10,11 @@
 <b> Experiment|     <b> 1. Synchro transmitter-receiver characteristics experiment.
 
 
-<h4> [1. Focus Area](FA)
-<h4> [2. Learning Objectives](LO)
-<h4> [3. Instructional Strategy](IS)
-<h4> [4. Task & Assessment Questions](AQ)
-<h4> [5. Simulator Interactions](SI)
+<h4> 1. Focus Area(FA)
+<h4> 2. Learning Objectives(LO)
+<h4> 3. Instructional Strategy(IS)
+<h4> 4. Task & Assessment Questions(AQ)
+<h4> 5. Simulator Interactions(SI)
 <hr>
 
 <a name="FA"></a>
