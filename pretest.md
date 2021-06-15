@@ -8,7 +8,7 @@ d. Force<br>
 
 <br>
 Q 2. The three windings are separated from each other by an angle of ...................<br>
-a.90 degrees<br>
+a. 90 degrees<br>
 b. 240 degrees<br>
 <b>c. 120 degrees<br></b>
 d. 360 degrees <br>
