@@ -8,7 +8,7 @@ d. None of the options<br>
 
 <br>
 Q 2. The maximum angular position that can be used in Synchro pair is...................<br>
-a.90 degrees<br>
+a. 90 degrees<br>
 b. 180 degrees<br>
 <b>c. 360 degrees<br></b>
 d. 0 degrees <br>
