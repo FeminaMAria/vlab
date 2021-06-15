@@ -87,7 +87,7 @@ b)   No<br>
 
 #### 2.6 Conclusion:
 
-Evaluation of the pre-test and post-test should be given immediately to the user. The moment the student clicks on the answer of his choice, the CORRECT ANSWER should be displayed below the question. <br> This would enable the student to understand whether the user is right or wrong immediately.
+Time taken by the user to complete the simulation is 20 mins after going through theory and procedure. <br> Evaluation of the pre-test and post-test should be given immediately to the user. The moment the student clicks on the answer of his choice, the CORRECT ANSWER should be displayed below the question. <br> This would enable the student to understand whether the user is right or wrong immediately.
 
 #### 2.7 Equations/formulas:
   
