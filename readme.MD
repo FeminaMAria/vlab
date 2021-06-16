@@ -50,7 +50,7 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 <br>
  Section will be Aim, Theory, Procedure, Pretest, Simulation, Posttest and References. The instructional strategy identified is Expository as the students learn in the theory course the concepts of synchro pair, its operating principle, and the performance characteristics. So, the virtual laboratory experiment will help the students to understand practically the characteristics of synchro pair.
 
-The formative assessment (quiz) given before the test will also help the students to evaluate themselves. Later the experiment will be done by the students based on the instructions. Once the experiment is completed by the student quiz will be given to assess themselves with the learnt concepts.(Summative assessment).
+The formative assessment (quiz) given before the test will also help the students to evaluate themselves. Later the experiment will be done by the students based on the instructions. Once the experiment is completed by the student quiz will be given to assess themselves with the learnt concepts.
 
 <br/>
 <div align="right">
