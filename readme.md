@@ -39,7 +39,7 @@ Let us assume that the user lands up into the simulator page where the synchro t
 4. Press “TURN ON” to switch on the Supply. Enter the value of set angle in Input box and at intervals of 15 degrees at the transmitter side and click “ACCELERATE TRANSMITTER” and observe on the receiver side. 
 5. Repeat for angles till 360 degrees by entering the input angle in Input box at intervals of 15 degrees and click “ACCELERATE TRANSMITTER” each time and observe the receiver side.
 6. Tabulate all the readings manually and Click “READING” button to view the Observation table. Enter the reading and check the percentage error calculated automatically.
-7. Click on the “PLOT GRAPHS” button to get the graph for set angle vs measured angle, set angle Vs percentage error curve.Click on the “PLOT GRAPHS” button to get the graph for set angle vs measured angle, set angle vs percentage error curve.
+7. Click on the “PLOT GRAPHS” button to get the graph for set angle vs measured angle, set angle Vs percentage error curve.
 
 
 
